@@ -2,7 +2,7 @@
 
 From sand to the moon. No brakes. No utility. All narrative.
 # Bin Solmoon (BSM) 🐪🌕
-![Logo](logo.png)
+![Logo](logo)
 
 Bin Solmoon (BSM) is the visionary meme coin inspired by the futuristic vibes of the Middle East.  
 Powered by sand, oil, and big dreams, BSM is on a mission to ride rockets from Riyadh to the Moon.
